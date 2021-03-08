@@ -112,6 +112,7 @@ npm run test
 ```
 
 ### 命令行生成dist包
+运行命令后查看目录/dist
 
 ``` 
 
@@ -129,6 +130,7 @@ npm run release
 支持搜索
 支持global函数和class
 支持点击跳转代码行
+运行命令后查看目录/docs
 
 ``` 
 
