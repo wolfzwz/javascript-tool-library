@@ -63,7 +63,7 @@ Requires node >= 10 and Git >= 2.13.0.
 ```
 
 ### 生成的文档
-![avatar](/assets/images/doc.png)
+![文档图片](/assets/images/doc.png)
 
 ## 项目开发需要执行的命令
 ### 安装依赖
