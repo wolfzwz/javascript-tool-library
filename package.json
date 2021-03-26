@@ -4,7 +4,8 @@
   "description": "a javascript tools package",
   "main": "dist/javascript-tool-library.js",
   "files": [
-    "dist"
+    "dist",
+    "assets"
   ],
   "engines": {
     "node": ">=12.14.1"
