@@ -1,6 +1,6 @@
 {
   "name": "@wolfzwz/javascript-tool-library",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "a javascript tools package",
   "main": "dist/javascript-tool-library.js",
   "files": [
