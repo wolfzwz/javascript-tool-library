@@ -49,19 +49,23 @@ console.log(result);
 Can also import like
 
 ``` javascript
-import tool from '@zollty/zollty-util';
+import tool from '@wolfzwz/javascript-tool-library';
 
 console.log(tool.find); // Function
 ```
 
-## 项目开发需要执行的命令
+## 项目地址
+https://github.com/wolfzwz/javascript-tool-library
 
 ### 开发环境
-
 ``` 
-Requires Node >= 12.14.1 and Git >= 2.13.0.
+Requires node >= 10 and Git >= 2.13.0.
 ```
 
+### 生成的文档
+![avatar](/assets/images/doc.png)
+
+## 项目开发需要执行的命令
 ### 安装依赖
 
 ``` 
@@ -69,6 +73,7 @@ Requires Node >= 12.14.1 and Git >= 2.13.0.
 npm install --global rollup
 npm install
 npm install eslint --save-dev
+如果启动项目时提示某个依赖没有安装，单独安装就可以
 ```
 
 ### 命令行执行eslint检测

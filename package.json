@@ -52,7 +52,6 @@
     "@commitlint/config-conventional": "^12.0.1",
     "@typescript-eslint/eslint-plugin": "^4.15.2",
     "@typescript-eslint/parser": "^4.15.2",
-    "@wolfzwz/javascript-tool-library": "^1.1.0",
     "commitizen": "^4.2.3",
     "cz-conventional-changelog": "^3.3.0",
     "docdash": "^1.2.0",

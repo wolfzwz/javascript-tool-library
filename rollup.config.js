@@ -4,8 +4,6 @@ import babel from 'rollup-plugin-babel';
 import typescript from 'rollup-plugin-typescript2';
 import { eslint } from 'rollup-plugin-eslint';
 import { terser } from "rollup-plugin-terser";
-import {tool} from '@wolfzwz/javascript-tool-library';
-console.log(tool)
 // 不支持es6
 // import {uglify} from 'rollup-plugin-uglify';
 
